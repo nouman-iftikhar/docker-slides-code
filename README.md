@@ -23,7 +23,7 @@ git clone https://github.com/nouman-iftikhar/docker-slides-code.git
 ls
 ```
 ```
-cd docker-slide-code/
+cd docker-slides-code/
 ```
 ```
 ls
